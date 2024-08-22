@@ -115,19 +115,23 @@ translate = {
   "wife": "[ vayf ] - xotin, rafiq",
   "parent": "[ pernt ] - ota - ona",
   "daughter": "[ dovter ] - qiz farzand",
-  son [ san ] - o'g'il farzand
-  grandparent [ grendperent ] - bobo-buvi
-  granddaughter - [ grenddovter ] - qiz nevara
-  grandson [ grendsan ] - o'g'il nevara
-  uncle [ ankl ] - amaki, tog'a
-  modify [ madifay ] - o'zgartirmoq
-  affirmative [ efermedif ] - ijobiy
-  description [ diskripshn ] - tasvir, bayon
-  event [ ivent ] - voqea, hodisa
-  to be cross [ cros ] - jahli chiqmoq
-  to be delighted [ dilayted ] - mamnun, xursand bo'lmoq
-  to be embarrased [ imbarest ] - xijolat bo'lmoq
-  to be disappointed [ disapointed ] - hafsalasi pir bo'lmoq
-  to be envious [ envies ] - xasadgo'y bo'lmoq
-  to be excited - [ eksayted ] - juda xursand
+  "son": "[ san ] - o'g'il farzand",
+  "grandparent": "[ grendperent ] - bobo-buvi",
+  "granddaughter": "[ grenddovter ] - qiz nevara",
+  "grandson": "[ grendsan ] - o'g'il nevara",
+  "uncle": "[ ankl ] - amaki, tog'a",
+  "modify": "[ madifay ] - o'zgartirmoq",
+  "affirmative": "[ efermedif ] - ijobiy",
+  "description": "[ diskripshn ] - tasvir, bayon",
+  "event": "[ ivent ] - voqea, hodisa",
+  "to be cross": "[ cros ] - jahli chiqmoq",
+  "cross": "to be + [ cros ] - jahli chiqmoq",
+  "to be delighted": "[ dilayted ] - mamnun, xursand bo'lmoq",
+  "delighted": "to be + [ dilayted ] - mamnun, xursand bo'lmoq",
+  "to be embarrased": "[ imbarest ] - xijolat bo'lmoq",
+  "embarrased": "to be + [ imbarest ] - xijolat bo'lmoq",
+  "to be disappointed": "[ disapointed ] - hafsalasi pir bo'lmoq",
+  
+  "to be envious [ envies ] - xasadgo'y bo'lmoq
+  "to be excited - [ eksayted ] - juda xursand
 }
