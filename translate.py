@@ -100,7 +100,7 @@ translate = {
   "what for?": "Nima uchun?", 
   "what of it?": "Xo'sh nima bo'libdi?", 
   "you can take it from me": "Menga ishonishingiz mumkin",
-  "jewellery [ jvalri ] - taqinchoqlar
+  "jewellery": "[ jvalri ] - taqinchoqlar",
   "earrings": "[ ierngs ] - zirak, sirg'a",
   "necklace": "[ nekles ] - marjon, tros",
   "ring": "[ ring ] - uzuk",
