@@ -99,5 +99,35 @@ translate = {
   "what are you talking about?": "Nima deyapsiz?", 
   "what for?": "Nima uchun?", 
   "what of it?": "Xo'sh nima bo'libdi?", 
-  "you can take it from me": "Menga ishonishingiz mumkin"
+  "you can take it from me": "Menga ishonishingiz mumkin",
+  "jewellery [ jvalri ] - taqinchoqlar
+  "earrings [ ierngs ] - zirak, sirg'a
+  "necklace [ nekles ] - marjon, tros
+  "ring [ ring ] - uzuk
+  wrist - watch [ ristwach ]
+  bracelet [ breislet ] - braslet, bilakuzuk
+  to be thirsty [ zso'rsti ] - chanqamoq
+  insect [ insekt ] - hasharot
+  lie [ lay ] - yolg'on
+  cry [ kray ] - yig'lamoq
+  relatives [ relitivs ] - qarindoshlar
+  husband [ hazbend ] - er, qalliq
+  wife [ vayf ] - xotin, rafiq
+  parent [ pernt ] - ota - ona
+  daughter [ dovter ] - qiz farzand
+  son [ san ] - o'g'il farzand
+  grandparent [ grendperent ] - bobo-buvi
+  granddaughter - [ grenddovter ] - qiz nevara
+💎 grandson [ grendsan ] - o'g'il nevara
+💎 uncle [ ankl ] - amaki, tog'a
+💎 modify [ madifay ] - o'zgartirmoq
+💎 affirmative [ efermedif ] - ijobiy
+💎 description [ diskripshn ] - tasvir, bayon
+💎 event [ ivent ] - voqea, hodisa
+💎 to be cross [ cros ] - jahli chiqmoq
+💎 to be delighted [ dilayted ] - mamnun, xursand bo'lmoq
+💎 to be embarrased [ imbarest ] - xijolat bo'lmoq
+💎 to be disappointed [ disapointed ] - hafsalasi pir bo'lmoq
+💎 to be envious [ envies ] - xasadgo'y bo'lmoq
+💎 to be excited - [ eksayted ] - juda xursand
 }
