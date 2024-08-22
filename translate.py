@@ -164,7 +164,7 @@ translate = {
   "don’t do anything i wouldn’t do": "bunday qilma. men qilmagan bo’lardim.",
   "you’re pushing your luck": "omadingni o’zingdan itaryapsan.",
   "you have your head in the clouds": "asl haqiqatni ko’rmayapsan.",
-  "": "",
+  "car": "mashina",
   "": "",
   "": "",
   "": "",
