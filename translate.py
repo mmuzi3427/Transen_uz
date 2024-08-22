@@ -135,5 +135,12 @@ translate = {
   "to be envious": "[ envies ] - xasadgo'y bo'lmoq",
   "envious": "to be + [ envies ] - xasadgo'y bo'lmoq",
   "to be excited": "[ eksayted ] - juda xursand",
-  "excited": "to be + [ eksayted ] - juda xursand"
+  "excited": "to be + [ eksayted ] - juda xursand",
+  "may i come in?": "Kirsam maylimi?",
+  "can i give you me card?": "Sizga tashrifnomamni topshirsam maylimi?",
+  "do you mind my staying here?": "Shu yerda turishimga qarshi emasmisiz?",
+  "yes": "Xa, yaxshi",
+  "certainly": "Xa, albatta",
+  "sure": "albatta",
+  "of course": "albatta"
 }
