@@ -79,5 +79,25 @@ translate = {
   "butterfly": "kapalak",
   "godsend": "g'oyibdan kelgan omad, baxt",
   "unique": "yakkayu yagona",
-  "summer": "yoz"
+  "summer": "yoz",
+  "ask me another": "Osonroq savol so'ra! 
+  "i don't care": "Menga farqi yo'q
+  "i have no idea": "Bilmasam 
+  "i wish I knew": "Qani, edi bilsaydim! 
+  "it doesn't matter": "farqi yo'q
+  "it doesn't prove a thing": "Bu hech narsani o'zgartira olmaydi 
+  "it's all the same to me": "Hammasi baribir
+  "it's beside the point": "Bu mutloq boshqa narsa
+  "it's up to you": "Sizga bog'liq
+  "let's clear it up": "Keling, aniqlab olamiz 
+  "let's drop the subject": "Keling shu mavzuni to'xtataylik 
+  "so what?": "Nima bo'libdi(farqi nima)? 
+  "that's not the point": "Buning aloqasi yo'q 
+  "that's very well, but": "Ajoyib, lekin.... 
+  "use your own judgement": "o'zingga qara
+  "what are you driving at?": "Nima demoqchisiz? 
+  "what are you talking about?": "Nima deyapsiz? 
+  "what for?": "Nima uchun? 
+  "what of it?": "Xo'sh nima bo'libdi? 
+  "you can take it from me": "Menga ishonishingiz mumkin
 }
