@@ -1,0 +1,3 @@
+Translate:
+Koʻp funksiyali tarjimon unutmang hali uncha takomillashmagan!
+Optimallashtirilmoqda...
