@@ -131,7 +131,9 @@ translate = {
   "to be embarrased": "[ imbarest ] - xijolat bo'lmoq",
   "embarrased": "to be + [ imbarest ] - xijolat bo'lmoq",
   "to be disappointed": "[ disapointed ] - hafsalasi pir bo'lmoq",
-  
-  "to be envious [ envies ] - xasadgo'y bo'lmoq
-  "to be excited - [ eksayted ] - juda xursand
+  "disappointed": "to be + [ disapointed ] - hafsalasi pir bo'lmoq",
+  "to be envious": "[ envies ] - xasadgo'y bo'lmoq",
+  "envious": "to be + [ envies ] - xasadgo'y bo'lmoq",
+  "to be excited": "[ eksayted ] - juda xursand",
+  "excited": "to be + [ eksayted ] - juda xursand"
 }
